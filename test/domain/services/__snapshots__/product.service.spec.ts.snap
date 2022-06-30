@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductService create should return product created 1`] = `[MockFunction]`;
+
+exports[`ProductService update should return success when product update 1`] = `[MockFunction]`;
